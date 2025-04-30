@@ -1,5 +1,5 @@
 SELECT
-    name || ' ID is ' || id || ',WEIGHT is ' || weight || '.' AS "ID AND WEIGHT"
+    name || ' ID is ' || id || ',WEIGHT is ' || weight || '.' "ID AND WEIGHT"
 FROM
     STUDENT;
     
