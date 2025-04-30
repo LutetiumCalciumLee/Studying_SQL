@@ -1,4 +1,4 @@
 SELECT
-    ename || '''s salary is $' || sal AS "Name and Sal"
+    ename || '''s salary is $' || sal "Name and Sal"
 FROM
     emp;
