@@ -1,3 +1,0 @@
-SELECT LPAD(ename,9,123456789)
-FROM emp
-WHERE deptno = 10;
