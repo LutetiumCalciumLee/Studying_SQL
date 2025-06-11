@@ -1,0 +1,6 @@
+CREATE TABLE new_emp (
+    NO NUMBER(5),
+    NAME VARCHAR2(20),
+    HIREDATE DATE,
+    BONUS NUMBER(6,2)
+);

@@ -1,0 +1,1 @@
+ALTER TABLE new_emp2 MODIFY (NO NUMBER(7));

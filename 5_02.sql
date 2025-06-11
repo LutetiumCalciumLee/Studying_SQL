@@ -1,0 +1,3 @@
+CREATE TABLE new_emp2 AS
+SELECT NO, NAME, HIREDATE 
+FROM new_emp;
