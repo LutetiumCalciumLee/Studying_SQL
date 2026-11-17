@@ -32,7 +32,7 @@ Mastering indexes ensures efficient query execution and scalable data operations
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # Chapter 8. INDEX (인덱스) 관리
