@@ -32,7 +32,7 @@ Mastering views enables efficient data presentation and optimized query performa
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # Chapter 9. VIEW(뷰) 관리
