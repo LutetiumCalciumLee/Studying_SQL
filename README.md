@@ -29,7 +29,7 @@ By practicing these concepts, readers can write accurate and readable queries th
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # Chapter 1. SELECT 문을 이용한 데이터 조회
