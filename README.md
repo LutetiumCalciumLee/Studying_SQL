@@ -32,7 +32,7 @@ Mastering these ensures robust database design and error-free data operations.
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # Chapter 7. 제약 조건(Constraint) 관리
