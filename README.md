@@ -29,7 +29,7 @@ By mastering these functions, readers can write more expressive and efficient qu
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # Chapter 2. SQL 단일 행 함수 학습
