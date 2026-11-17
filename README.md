@@ -32,7 +32,7 @@ By mastering group and aggregate functions, readers can create accurate reports 
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # Chapter 3. SQL 그룹(집계) 함수 학습
