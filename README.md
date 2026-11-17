@@ -35,7 +35,7 @@ By mastering DML commands and transaction control, readers can maintain data con
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # Chapter 6. DML 및 트랜잭션을 이용한 데이터 관리
