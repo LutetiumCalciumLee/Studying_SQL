@@ -38,7 +38,7 @@ By learning DDL commands and data dictionary usage, readers can effectively cont
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # Chapter 5. DDL 명령어 및 데이터 딕셔너리 학습
