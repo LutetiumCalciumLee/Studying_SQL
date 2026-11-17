@@ -32,7 +32,7 @@ By mastering SQL joins, readers can construct accurate and efficient queries for
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 # Chapter 4. SQL 조인(Join) 학습
